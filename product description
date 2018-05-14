@@ -1,1 +1,3 @@
-https://stackoverflow.com/questions/3447932/amazon-api-retrieve-product-description?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+https://stackoverflow.com/questions/3447932/amazon-api-retrieve-product-description?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa</br>
+
+http://ecs.amazonaws.de/onca/xml?Service=AWSECommerceService&AWSAccessKeyId=1EYQH7NQ7HMKEGDPVZ82&Operation=ItemLookup&ItemId=3492233198&ResponseGroup=Large,ItemAttributes,Images,Offers,EditorialReview,Subjects,Reviews
